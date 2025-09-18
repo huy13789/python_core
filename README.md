@@ -1,1 +1,1 @@
-This respo to lear python core ^^
+This repo to lear python core ^^
