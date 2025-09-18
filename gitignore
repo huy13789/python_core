@@ -16,7 +16,4 @@ __pycache__/
 # Build and distribution folders
 build/
 dist/
-
-# Python virtual environment
-venv/
-.env/
+GameDoanSo/
